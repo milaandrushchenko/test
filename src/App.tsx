@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import BottomMenu from "./components/BottomMenu/BottomMenu";
 import TopPanel from "./components/TopPanel";
