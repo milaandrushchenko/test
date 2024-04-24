@@ -1,0 +1,13 @@
+.borderSubTitle {
+  background-image: radial-gradient(
+    50% 800% at 50% 50%,
+    #ffffff 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: rotate(90deg);
+}
+
+.round-item {
+  background: rgb(31, 31, 31, 0.5);
+  border: 1px solid rgba(31, 31, 31, 1);
+}
